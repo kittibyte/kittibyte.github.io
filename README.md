@@ -1,2 +1,2 @@
-# kittibytess.github.io
+# kittibyte.github.io
 personal website
