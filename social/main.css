@@ -1,0 +1,18 @@
+body {
+    font-family: "Comic Sans MS";
+    margin: 5%;
+    background-image: radial-gradient(circle,rgba(44, 0, 112, 0.5) 0%, rgba(44, 0, 112, 1) 100%), url("../assets/bg_grid1.png");
+    background-overflow: hidden;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+a {
+    color: pink;
+}
+
+.center {
+    text-align: center;
+}
