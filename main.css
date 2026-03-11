@@ -2,7 +2,7 @@ body {
     font-family: "Comic Sans MS";
     margin: auto;
     height: 100vh;
-    background-image: radial-gradient(circle,rgba(44, 0, 112, 0.5) 0%, rgba(44, 0, 112, 1) 100%), url("assets/bg_grid1.png");
+    background-image: radial-gradient(circle,rgba(44, 0, 112, 0.5) 0%, rgba(44, 0, 112, 1) 100%), url("assets/bg_grid1.webp");
     background-overflow: hidden;
 }
 
